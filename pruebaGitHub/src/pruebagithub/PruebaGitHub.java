@@ -21,6 +21,7 @@ public class PruebaGitHub {
         // TODO code application logic here
         System.out.println("Esto es una prueba de GitHub");
         // otro cambio
+          System.out.println("Otro cambio para comprobar GitHub");
     }
     
     public void setNombre(String nombre) {
