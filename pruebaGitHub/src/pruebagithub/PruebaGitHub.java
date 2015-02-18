@@ -22,6 +22,8 @@ public class PruebaGitHub {
         System.out.println("Esto es una prueba de GitHub");
         // otro cambio
           System.out.println("Otro cambio para comprobar GitHub");
+        // cambio desde GitHub
+          System.out.println("Cambio hecho en GitHub");
     }
     
     public void setNombre(String nombre) {
